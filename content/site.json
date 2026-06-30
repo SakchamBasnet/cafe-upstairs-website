@@ -1,0 +1,80 @@
+{
+  "heroEyebrow": "Itahari, Sunsari — Est. 2015",
+  "heroTitleLine1": "Cafe",
+  "heroTitleLine2": "Upstairs",
+  "heroSubtitle": "A rooftop above the noise of Itahari. Red neon, slow conversation, and coffee made the way it should be — since 2015.",
+  "heroImage": "/images/hero-rooftop.jpeg",
+
+  "aboutHeadingLine1": "Above the street,",
+  "aboutHeadingLine2": "part of the city.",
+  "aboutParagraph1": "Cafe Upstairs sits one flight above the main road in <strong>Itahari, Sunsari</strong> — close enough to watch the traffic and the lights below, far enough to feel like you've stepped away from it.",
+  "aboutParagraph2": "Since 2015 we've poured everything from classic espresso to cold brews, blended seasonal fruit juices, and plated comfort food alongside menu staples — built around one idea: stay as long as you like.",
+  "aboutParagraph3": "Vinyl-warm lighting, framed prints, and a wall of stories make every table feel like the corner booth you come back to.",
+  "aboutImage": "/images/corner-table.jpeg",
+
+  "menuCat1Title": "Coffee, Every Way",
+  "menuCat1Desc": "Espresso, cappuccino, cold brew, mocha, and the house specials — almost every kind of coffee you'd ask for.",
+  "menuCat2Title": "Cold Drinks & Fresh Juice",
+  "menuCat2Desc": "Seasonal fruit blended fresh, plus a full line-up of cold drinks for Itahari's warmer afternoons.",
+  "menuCat3Title": "Full Food Menu",
+  "menuCat3Desc": "From quick bites to sit-down plates — almost every food item, made fresh in-house, table to table.",
+
+  "galleryImage1": "/images/hero-rooftop.jpeg",
+  "galleryCaption1": "The rooftop, after dark",
+  "galleryImage2": "/images/lamp-lion.jpeg",
+  "galleryCaption2": "Handmade pendant lamps",
+  "galleryImage3": "/images/cake-display.jpeg",
+  "galleryCaption3": "Fresh from the case",
+  "galleryImage4": "/images/gallery-wall.jpeg",
+  "galleryCaption4": "The gallery wall",
+  "galleryImage5": "/images/coffee-art-frame.jpeg",
+  "galleryCaption5": "Vintage coffee art",
+  "galleryImage6": "/images/hallway-gallery.jpeg",
+  "galleryCaption6": "Down the hall",
+  "galleryImage7": "/images/corner-table.jpeg",
+  "galleryCaption7": "A quiet corner",
+
+  "signHeadingLine1": "The light that finds you",
+  "signHeadingLine2": "from the street below.",
+  "signParagraph": "Look up on your way past the main road — if the red glow is on, we're open and the table by the rail is waiting.",
+
+  "address": "Itahari, Sunsari, Koshi Province, Nepal",
+  "hours": "Stop by morning through late evening",
+  "since": "Serving Itahari since 2015",
+  "footerTagline": "Coffee, cold drinks & fresh seasonal juice — one flight up, in the heart of Itahari. Since 2015.",
+
+  "instagramUrl": "https://www.instagram.com/cafe.upstairss?igsh=MTg1Yzg0Y2Mwa3Bubw==",
+  "tiktokUrl": "https://www.tiktok.com/@cafe.upstairs?_r=1&_t=ZS-97dKkGKwusm",
+  "facebookUrl": "https://www.facebook.com/share/1LLGEvSUdT/",
+  "mapsUrl": "https://maps.app.goo.gl/WsP8DaXbYCfbmEcL6",
+
+  "noticeActive": true,
+  "noticeText": "Fresh Black Forest slices back in the case today — first come, first served!",
+
+  "reviewsHeading": "What people are saying",
+  "reviews": [
+    { "name": "Sujata R.", "rating": 5, "text": "Best rooftop spot in Itahari. The neon sign view at night is unmatched." },
+    { "name": "Bikash T.", "rating": 5, "text": "Coffee is consistently great and the walnut brownie is unreal." },
+    { "name": "Anisha K.", "rating": 4, "text": "Quiet corner tables, perfect for working with a coffee for a few hours." }
+  ],
+
+  "customerPhotosHeading": "Moments from our customers",
+  "customerPhotosSubtext": "Tag us @cafe.upstairs on Instagram or TikTok and we'll feature your photo here.",
+  "customerPhotos": [],
+
+  "whatsappNumber": "9779767263395",
+  "orderHeading": "Order Ahead",
+  "orderSubtext": "Pick what you'd like, then send it straight to our counter on WhatsApp — no typing needed.",
+  "menuItems": [
+    { "category": "Coffee", "name": "Espresso", "price": 120 },
+    { "category": "Coffee", "name": "Cappuccino", "price": 160 },
+    { "category": "Coffee", "name": "Cafe Latte", "price": 170 },
+    { "category": "Coffee", "name": "Cold Brew", "price": 190 },
+    { "category": "Cold Drinks & Juice", "name": "Seasonal Fresh Juice", "price": 150 },
+    { "category": "Cold Drinks & Juice", "name": "Iced Lemon Tea", "price": 130 },
+    { "category": "Cold Drinks & Juice", "name": "Cold Coffee", "price": 180 },
+    { "category": "Food", "name": "Black Forest Slice", "price": 135 },
+    { "category": "Food", "name": "Walnut Brownie", "price": 175 },
+    { "category": "Food", "name": "Chicken Sandwich", "price": 220 }
+  ]
+}
